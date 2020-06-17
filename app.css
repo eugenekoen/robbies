@@ -59,10 +59,11 @@ body{
 
 .container{
     width: 80vw;
-    margin-left: auto;
+    margin: auto;
     margin-top: 40px;
 }
 
 img {
     margin-left: auto;
+    width: 100%;
 }
