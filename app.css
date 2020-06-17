@@ -3,6 +3,7 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;  
     background-size: cover;
+    margin: 0;
 }
 
 .topnav {
@@ -94,6 +95,7 @@ img {
     .container{
       width: 100vw;
       margin: auto;
+      margin-top: 15px;
     }
   }
 
